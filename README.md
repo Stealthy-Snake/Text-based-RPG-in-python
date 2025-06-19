@@ -7,7 +7,7 @@ A terminal-based role-playing game (RPG) written in Python. Inspired by classic 
 ## Features
 
 - Character creation system with classes, stats, and traits  
-- 🗺️ Branching story with exploration paths and decisions that matter  
+- Branching story with exploration paths and decisions that matter  
 - Turn-based combat with enemies, critical hits, and dice-roll mechanics  
 - Randomized outcomes for encounters using Python’s `random` module  
 - Modular and scalable codebase for easy feature expansion
